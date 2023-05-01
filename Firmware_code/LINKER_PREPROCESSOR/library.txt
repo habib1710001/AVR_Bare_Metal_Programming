@@ -1,0 +1,5 @@
+builtDelay(uint32_t time){
+While (time){
+   time--;
+}
+}
